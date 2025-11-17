@@ -1,11 +1,11 @@
 <!-- ## Hi there 👋 -->
 
 <!--
-**khizarlabs/KhizarLabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**imkhizarhayat/imkhizarhayat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <!--- Profile Header --->  
 <h1 align="center">Hi, I'm Khizar 👋</h1>  
-<p align="center">Backend Developer (Java & Spring Boot) | Mainframe Specialist | Problem Solver | Building with Purpose @khizarlabs</p>
+<p align="center">Backend Developer (Java & Spring Boot) | Mainframe Specialist | Problem Solver | Building with Purpose @imkhizarhayat</p>
 
 - ## 👨‍💻 About Me  
 - 🔭 I’m currently working on migrating mainframe systems and developing modern backend services at KhizarLabs.  
@@ -44,9 +44,9 @@
 ---
 
 ## 📫 Get in Touch  
-- LinkedIn: [linkedin.com/in/khizarlabs](https://www.linkedin.com/in/khizarlabs)  
-- Email: your.email@domain.com  
-- Twitter: [@khizarlabs](https://twitter.com/khizarlabs)
+- LinkedIn: [linkedin.com/in/khizarlabs](https://linkedin.com/in/imkhizarhayat)  
+<!-- - Email: your.email@domain.com  
+ - Twitter: [@khizarlabs](https://twitter.com/khizarlabs) -->
 
 ---
 <!--
