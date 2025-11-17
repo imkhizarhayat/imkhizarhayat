@@ -44,7 +44,7 @@
 ---
 
 ## 📫 Get in Touch  
-- LinkedIn: [linkedin.com/in/khizarlabs](https://linkedin.com/in/imkhizarhayat)  
+- LinkedIn: [linkedin.com/in/imkhizarhayat](https://linkedin.com/in/imkhizarhayat)  
 <!-- - Email: your.email@domain.com  
  - Twitter: [@khizarlabs](https://twitter.com/khizarlabs) -->
 
